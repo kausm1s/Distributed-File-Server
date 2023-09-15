@@ -1,4 +1,4 @@
-# Distributed-File-Server
+# Distributed-File-System
 Python3.6 is used for code writing
 
 Download the file "file_mappings.csv"
